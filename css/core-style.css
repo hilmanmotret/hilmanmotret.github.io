@@ -708,7 +708,7 @@ img {
     -webkit-box-align: baseline;
     -ms-flex-align: baseline;
     align-items: baseline;
-    margin-top: 250px; /* -100px */
+    margin-top: 450px; /* -100px */
 }
 
 .slide-text h2 {
