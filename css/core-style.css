@@ -702,13 +702,14 @@ img {
     border-left: 3px solid #fff;
     margin-left: 200px;
     background-color: #333;
+    opacity: 0.5;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: baseline;
     -ms-flex-align: baseline;
     align-items: baseline;
-    margintop: 500px;
+    margin-top: 500px;
 }
 
 .slide-text h2 {
